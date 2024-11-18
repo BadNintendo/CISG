@@ -1,4 +1,4 @@
-### CheckersModule Explanation
+### CheckersModule Explanation - File [CheackersMaster](CheckersMaster.p)
 
 #### Purpose:
 This module evaluates and suggests the top 5 best moves in a checkers game, aiming to lead to the fewest moves to win. It also includes rules to detect draw scenarios, which are applied only when relevant conditions are met.

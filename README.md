@@ -1,7 +1,7 @@
 ### CheckersModule Explanation - File [CheackersMaster](CheckersMaster.p)
 
 #### Purpose:
-This module evaluates and suggests the top 5 best moves in a checkers game, aiming to lead to the fewest moves to win. It also includes rules to detect draw scenarios, which are applied only when relevant conditions are met.
+This module evaluates and suggests the top 5 best moves in a checkers game, aiming to lead to the fewest moves to win. It also includes rules to detect draw scenarios, which are applied only when relevant conditions are met. Fogot to add the piece restrictions until kinged and able to move backwards, this module moves forwards and backwards when attacking only and only forward in moves. 
 
 #### Initialization:
 - **Class Setup**: The `CheckersModule` class initializes with basic settings, including:
